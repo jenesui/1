@@ -1,0 +1,477 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTPxx1" tvg-name="RTP 1" tvg-logo="https://logos.prvgroup.xyz/TUGA/RTP1.png" group-title="Portugal",RTP 1
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/2
+#EXTINF:-1 tvg-id="RTPxx1" tvg-name="RTP 1 ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/RTP1HD.png" group-title="Portugal",RTP 1 ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/1
+#EXTINF:-1 tvg-id="RTxxP2" tvg-name="RTP 2" tvg-logo="https://logos.prvgroup.xyz/TUGA/RTP2.png" group-title="Portugal",RTP 2
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/2267
+#EXTINF:-1 tvg-id="RTxxP2" tvg-name="RTP 2 ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/RTP2HD.png" group-title="Portugal",RTP 2 ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/5
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="https://logos.prvgroup.xyz/TUGA/SIC.png" group-title="Portugal",SIC
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/6
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/SICHD.png" group-title="Portugal",SIC ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/8
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="https://logos.prvgroup.xyz/TUGA/TVI.png" group-title="Portugal",TVI
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/9
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/TVIHD.png" group-title="Portugal",TVI ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/10
+#EXTINF:-1 tvg-id="SICN" tvg-name="SIC Noticias" tvg-logo="https://logos.prvgroup.xyz/TUGA/SIC%20NOTICIAS.png" group-title="Portugal",SIC Noticias
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/25
+#EXTINF:-1 tvg-id="SICN" tvg-name="SIC Noticias ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/SIC%20NOTICIASHD.png" group-title="Portugal",SIC Noticias ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/26
+#EXTINF:-1 tvg-id="RTP3" tvg-name="RTP 3" tvg-logo="https://logos.prvgroup.xyz/TUGA/RTP3.png" group-title="Portugal",RTP 3
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/12
+#EXTINF:-1 tvg-id="tvi24.pt" tvg-name="TVI 24" tvg-logo="https://logos.prvgroup.xyz/TUGA/TVI24.png" group-title="Portugal",TVI 24
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/27
+#EXTINF:-1 tvg-id="TVI24" tvg-name="TVI 24 ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/TVI24HD.png" group-title="Portugal",TVI 24 ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/28
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="https://logos.prvgroup.xyz/TUGA/CMTV.png" group-title="Portugal",CMTV
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/23
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/CMTV%20HD.png" group-title="Portugal",CMTV ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/24
+#EXTINF:-1 tvg-id="GLObbO" tvg-name="Globo" tvg-logo="https://logos.prvgroup.xyz/TUGA/GLOBO.png" group-title="Portugal",Globo
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/165
+#EXTINF:-1 tvg-id="GLObbO" tvg-name="Globo ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/GLOBOHD.png" group-title="Portugal",Globo ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/164
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC Mulher" tvg-logo="https://logos.prvgroup.xyz/TUGA/SICMULHER.png" group-title="Portugal",SIC Mulher
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/18
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC Mulher ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/SICMULHERHD.png" group-title="Portugal",SIC Mulher ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/657
+#EXTINF:-1 tvg-id="TVI_FICCAO" tvg-name="TVI Ficção" tvg-logo="https://logos.prvgroup.xyz/TUGA/TVIFICCAO.png" group-title="Portugal",TVI Ficção
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/22
+#EXTINF:-1 tvg-id="TVI_FICCAO" tvg-name="TVI Ficção ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/TVIFICCAOHD.png" group-title="Portugal",TVI Ficção ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/13898
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="TVI Reality" tvg-logo="https://logos.prvgroup.xyz/TUGA/TVIREALITY.png" group-title="Portugal",TVI Reality
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/21
+#EXTINF:-1 tvg-id="tvireality.pt" tvg-name="TVI Reality ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/TVIREALITYHD.png" group-title="Portugal",TVI Reality ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/654
+#EXTINF:-1 tvg-id="PORTO" tvg-name="Porto Canal" tvg-logo="https://logos.prvgroup.xyz/TUGA/PORTOCANAL.png" group-title="Portugal",Porto Canal
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/64
+#EXTINF:-1 tvg-id="PORTO" tvg-name="Porto Canal ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/PORTOCANALHD.png" group-title="Portugal",Porto Canal ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/201
+#EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC Caras" tvg-logo="https://logos.prvgroup.xyz/TUGA/SICCARAS.png" group-title="Portugal",SIC Caras
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/19
+#EXTINF:-1 tvg-id="SICCARAS" tvg-name="SIC Caras ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/SICCARASHD.png" group-title="Portugal",SIC Caras ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/1198
+#EXTINF:-1 tvg-id="SICRhd" tvg-name="SIC Radical" tvg-logo="https://logos.prvgroup.xyz/TUGA/SICRADICAL.png" group-title="Portugal",SIC Radical
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/17
+#EXTINF:-1 tvg-id="SICR" tvg-name="SIC Radical ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/SICRADICALHD.png" group-title="Portugal",SIC Radical ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/1200
+#EXTINF:-1 tvg-id="RTPM" tvg-name="RTP Memória" tvg-logo="https://logos.prvgroup.xyz/TUGA/RTPMEMORIA.png" group-title="Portugal",RTP Memória
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/15
+#EXTINF:-1 tvg-id="CanaljQ" tvg-name="Canal Q" tvg-logo="https://logos.prvgroup.xyz/TUGA/CANALQ.png" group-title="Portugal",Canal Q
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/170
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="A Bola TV" tvg-logo="https://logos.prvgroup.xyz/TUGA/ABOLATV.png" group-title="Portugal",A Bola TV
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/29
+#EXTINF:-1 tvg-id="abolatv.pt" tvg-name="A Bola TV ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/ABOLATV.png" group-title="Portugal",A Bola TV ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/30
+#EXTINF:-1 tvg-id="CANAL11" tvg-name="Canal 11" tvg-logo="https://logos.prvgroup.xyz/TUGA/11.png" group-title="Portugal",Canal 11
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/18213
+#EXTINF:-1 tvg-id="CANAL11" tvg-name="Canal 11 ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/11.png" group-title="Portugal",Canal 11 ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/33
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="SPORT TV +" tvg-logo="https://logos.prvgroup.xyz/TUGA/SPORTTV+.png" group-title="Portugal",SPORT TV +
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/35
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="SPORT TV + ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/SPORTTV+HD.png" group-title="Portugal",SPORT TV + ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/36
+#EXTINF:-1 tvg-id="SPORT.TV 1" tvg-name="SPORT TV 1" tvg-logo="https://logos.prvgroup.xyz/TUGA/SPORTTV1.png" group-title="Portugal",SPORT TV 1
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/38560
+#EXTINF:-1 tvg-id="SPORT.TV 1" tvg-name="SPORT TV 1 ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/SPORTTV1HD.png" group-title="Portugal",SPORT TV 1 ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/38561
+#EXTINF:-1 tvg-id="SPORT.TV 1" tvg-name="SPORT TV 1 ᶠᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/SPORTTV1HD.png" group-title="Portugal",SPORT TV 1 ᶠᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/38562
+#EXTINF:-1 tvg-id="SPORT.TV 1" tvg-name="SPORT TV 1 ᶠᴴᴰ [H265]" tvg-logo="https://logos.prvgroup.xyz/TUGA/SPORTTV1HD.png" group-title="Portugal",SPORT TV 1 ᶠᴴᴰ [H265]
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/38563
+#EXTINF:-1 tvg-id="SPORT.TV 2" tvg-name="SPORT TV 2" tvg-logo="https://logos.prvgroup.xyz/TUGA/SPORTTV2.png" group-title="Portugal",SPORT TV 2
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/38564
+#EXTINF:-1 tvg-id="SPORT.TV 2" tvg-name="SPORT TV 2 ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/SPORTTV2HD.png" group-title="Portugal",SPORT TV 2 ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/38565
+#EXTINF:-1 tvg-id="SPORT.TV 2" tvg-name="SPORT TV 2 ᶠᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/SPORTTV2HD.png" group-title="Portugal",SPORT TV 2 ᶠᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/38566
+#EXTINF:-1 tvg-id="SPORT.TV 2" tvg-name="SPORT TV 2 ᶠᴴᴰ [H265]" tvg-logo="https://logos.prvgroup.xyz/TUGA/SPORTTV2HD.png" group-title="Portugal",SPORT TV 2 ᶠᴴᴰ [H265]
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/38567
+#EXTINF:-1 tvg-id="SPORT.TV 3" tvg-name="SPORT TV 3" tvg-logo="https://logos.prvgroup.xyz/TUGA/SPORTTV3.png" group-title="Portugal",SPORT TV 3
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/38568
+#EXTINF:-1 tvg-id="SPORT.TV 3" tvg-name="SPORT TV 3 ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/SPORTTV3HD.png" group-title="Portugal",SPORT TV 3 ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/38569
+#EXTINF:-1 tvg-id="SPORT.TV 3" tvg-name="SPORT TV 3 ᶠᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/SPORTTV3HD.png" group-title="Portugal",SPORT TV 3 ᶠᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/38570
+#EXTINF:-1 tvg-id="SPORT.TV 4" tvg-name="SPORT TV 4" tvg-logo="https://logos.prvgroup.xyz/TUGA/SPORTTV4.png" group-title="Portugal",SPORT TV 4
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/38571
+#EXTINF:-1 tvg-id="SPORT.TV 4" tvg-name="SPORT TV 4 ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/SPORTTV4HD.png" group-title="Portugal",SPORT TV 4 ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/38572
+#EXTINF:-1 tvg-id="SPORT.TV 4" tvg-name="SPORT TV 4 ᶠᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/SPORTTV4HD.png" group-title="Portugal",SPORT TV 4 ᶠᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/38573
+#EXTINF:-1 tvg-id="SPORT.TV 5" tvg-name="SPORT TV 5" tvg-logo="https://logos.prvgroup.xyz/TUGA/SPORTTV5.png" group-title="Portugal",SPORT TV 5
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/38574
+#EXTINF:-1 tvg-id="SPORT.TV 5" tvg-name="SPORT TV 5 ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/SPORTTV5HD.png" group-title="Portugal",SPORT TV 5 ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/38575
+#EXTINF:-1 tvg-id="SPORT.TV 5" tvg-name="SPORT TV 5 ᶠᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/SPORTTV5HD.png" group-title="Portugal",SPORT TV 5 ᶠᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/38576
+#EXTINF:-1 tvg-id="Sport TV NBA" tvg-name="SPORT TV NBA ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/SPORTTVNBA.png" group-title="Portugal",SPORT TV NBA ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/42
+#EXTINF:-1 tvg-id="ELEVENSPORT 1" tvg-name="Eleven Sports 1" tvg-logo="https://logos.prvgroup.xyz/TUGA/ELEVENSPORTS1_NEW.png" group-title="Portugal",Eleven Sports 1
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/51
+#EXTINF:-1 tvg-id="ELEVENSPORT 1" tvg-name="Eleven Sports 1 ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/ELEVENSPORTS1_NEW.png" group-title="Portugal",Eleven Sports 1 ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/52
+#EXTINF:-1 tvg-id="ELEVENSPORT 1" tvg-name="Eleven Sports 1 ᶠᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/ELEVENSPORTS1_NEW.png" group-title="Portugal",Eleven Sports 1 ᶠᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/53
+#EXTINF:-1 tvg-id="ELEVENSPORT 1" tvg-name="Eleven Sports 1 ᶠᴴᴰ [H265]" tvg-logo="https://logos.prvgroup.xyz/TUGA/ELEVENSPORTS1_NEW.png" group-title="Portugal",Eleven Sports 1 ᶠᴴᴰ [H265]
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/18280
+#EXTINF:-1 tvg-id="ELEVENSPORT 2" tvg-name="Eleven Sports 2" tvg-logo="https://logos.prvgroup.xyz/TUGA/ELEVENSPORTS2_NEW.png" group-title="Portugal",Eleven Sports 2
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/54
+#EXTINF:-1 tvg-id="ELEVENSPORT 2" tvg-name="Eleven Sports 2 ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/ELEVENSPORTS2_NEW.png" group-title="Portugal",Eleven Sports 2 ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/55
+#EXTINF:-1 tvg-id="ELEVENSPORT 2" tvg-name="Eleven Sports 2 ᶠᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/ELEVENSPORTS2_NEW.png" group-title="Portugal",Eleven Sports 2 ᶠᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/56
+#EXTINF:-1 tvg-id="ELEVENSPORT 2" tvg-name="Eleven Sports 2 ᶠᴴᴰ [H265]" tvg-logo="https://logos.prvgroup.xyz/TUGA/ELEVENSPORTS2_NEW.png" group-title="Portugal",Eleven Sports 2 ᶠᴴᴰ [H265]
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/35343
+#EXTINF:-1 tvg-id="ELEVENSPORT 3" tvg-name="Eleven Sports 3" tvg-logo="https://logos.prvgroup.xyz/TUGA/ELEVENSPORTS3_NEW.png" group-title="Portugal",Eleven Sports 3
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/57
+#EXTINF:-1 tvg-id="ELEVENSPORT 3" tvg-name="Eleven Sports 3 ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/ELEVENSPORTS3_NEW.png" group-title="Portugal",Eleven Sports 3 ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/58
+#EXTINF:-1 tvg-id="ELEVENSPORT 3" tvg-name="Eleven Sports 3 ᶠᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/ELEVENSPORTS3_NEW.png" group-title="Portugal",Eleven Sports 3 ᶠᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/59
+#EXTINF:-1 tvg-id="ELEVENSPORT 4" tvg-name="Eleven Sports 4" tvg-logo="https://logos.prvgroup.xyz/TUGA/ELEVENSPORTS4_NEW.png" group-title="Portugal",Eleven Sports 4
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/60
+#EXTINF:-1 tvg-id="ELEVENSPORT 4" tvg-name="Eleven Sports 4 ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/ELEVENSPORTS4_NEW.png" group-title="Portugal",Eleven Sports 4 ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/207
+#EXTINF:-1 tvg-id="ELEVENSPORT 5" tvg-name="Eleven Sports 5" tvg-logo="https://logos.prvgroup.xyz/TUGA/ELEVENSPORTS5_NEW.png" group-title="Portugal",Eleven Sports 5
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/61
+#EXTINF:-1 tvg-id="ELEVENSPORT 5" tvg-name="Eleven Sports 5 ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/ELEVENSPORTS5_NEW.png" group-title="Portugal",Eleven Sports 5 ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/209
+#EXTINF:-1 tvg-id="ELEVENSPORT 6" tvg-name="Eleven Sports 6" tvg-logo="https://logos.prvgroup.xyz/TUGA/ELEVENSPORTS6_NEW.png" group-title="Portugal",Eleven Sports 6
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/62
+#EXTINF:-1 tvg-id="ELEVENSPORT 6" tvg-name="Eleven Sports 6 ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/ELEVENSPORTS6_NEW.png" group-title="Portugal",Eleven Sports 6 ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/211
+#EXTINF:-1 tvg-id="BTV1hd" tvg-name="BTV" tvg-logo="https://logos.prvgroup.xyz/TUGA/BTV.png" group-title="Portugal",BTV
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/14576
+#EXTINF:-1 tvg-id="BTV1hd" tvg-name="BTV ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/BTVHD.png" group-title="Portugal",BTV ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/14578
+#EXTINF:-1 tvg-id="BTV1hd" tvg-name="BTV ᶠᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/BTVHD.png" group-title="Portugal",BTV ᶠᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/14577
+#EXTINF:-1 tvg-id="BTV1hd" tvg-name="BTV ᶠᴴᴰ [H265]" tvg-logo="https://logos.prvgroup.xyz/TUGA/BTVHD.png" group-title="Portugal",BTV ᶠᴴᴰ [H265]
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/18269
+#EXTINF:-1 tvg-id="SPORTINGTVHD" tvg-name="Sporting TV" tvg-logo="https://logos.prvgroup.xyz/TUGA/SPORTINGTV.png" group-title="Portugal",Sporting TV
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/63
+#EXTINF:-1 tvg-id="SPORTINGTVHD" tvg-name="Sporting TV ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/SPORTINGTVHD.png" group-title="Portugal",Sporting TV ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/200
+#EXTINF:-1 tvg-id="EuroSport HD" tvg-name="Eurosport 1" tvg-logo="https://logos.prvgroup.xyz/TUGA/EUROSPORT1.png" group-title="Portugal",Eurosport 1
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/69
+#EXTINF:-1 tvg-id="EuroSport HD" tvg-name="Eurosport 1 ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/EUROSPORT1HD.png" group-title="Portugal",Eurosport 1 ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/70
+#EXTINF:-1 tvg-id="EuroSport 2" tvg-name="Eurosport 2" tvg-logo="https://logos.prvgroup.xyz/TUGA/EUROSPORT2.png" group-title="Portugal",Eurosport 2
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/71
+#EXTINF:-1 tvg-id="EuroSport 2" tvg-name="Eurosport 2 ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/EUROSPORT2HD.png" group-title="Portugal",Eurosport 2 ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/31294
+#EXTINF:-1 tvg-id="PFC" tvg-name="PFC" tvg-logo="https://logos.prvgroup.xyz/TUGA/PFC.png" group-title="Portugal",PFC
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/67
+#EXTINF:-1 tvg-id="Motorvision HD" tvg-name="Motorvision" tvg-logo="https://logos.prvgroup.xyz/TUGA/MOTORVISION.png" group-title="Portugal",Motorvision
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/80
+#EXTINF:-1 tvg-id="" tvg-name="F1 TV [Live Events]" tvg-logo="https://logos.prvgroup.xyz/logosmundo/f1.png" group-title="Portugal",F1 TV [Live Events]
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/39318
+#EXTINF:-1 tvg-id="Toros TV" tvg-name="Toros TV" tvg-logo="https://logos.prvgroup.xyz/TUGA/TOROS.png" group-title="Portugal",Toros TV
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/78
+#EXTINF:-1 tvg-id="RTPxx1" tvg-name="Campo Pequeno ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/CAMPOPEQUENO.png" group-title="Portugal",Campo Pequeno ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/20610
+#EXTINF:-1 tvg-id="DogTV" tvg-name="Dog TV" tvg-logo="https://logos.prvgroup.xyz/TUGA/DOGTV.png" group-title="Portugal",Dog TV
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/13895
+#EXTINF:-1 tvg-id="cacaepesca.pt" tvg-name="Caça e Pesca" tvg-logo="https://logos.prvgroup.xyz/TUGA/CA%c3%87AEPESCAHD.png" group-title="Portugal",Caça e Pesca
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/133
+#EXTINF:-1 tvg-id="CaçaVision" tvg-name="Caçavision" tvg-logo="https://logos.prvgroup.xyz/TUGA/CA%c3%87AVISION.png" group-title="Portugal",Caçavision
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/132
+#EXTINF:-1 tvg-id="Fuel Tv" tvg-name="Fuel TV" tvg-logo="https://logos.prvgroup.xyz/logosmundo/fueltv.png" group-title="Portugal",Fuel TV
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/68
+#EXTINF:-1 tvg-id="" tvg-name="RedBull TV ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/REDBULLTV.png" group-title="Portugal",RedBull TV ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/494
+#EXTINF:-1 tvg-id="WWENetwork(English).ca" tvg-name="WWE Network ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/logosmundo/wwenetwork.png" group-title="Portugal",WWE Network ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/30620
+#EXTINF:-1 tvg-id="Fight Network" tvg-name="Fight Network ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/FIGHTNETWORK.png" group-title="Portugal",Fight Network ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/22262
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/logosmundo/combate.png" group-title="Portugal",Combate ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/13896
+#EXTINF:-1 tvg-id="Nicke" tvg-name="Nickelodeon" tvg-logo="https://logos.prvgroup.xyz/TUGA/NICKLODEON.png" group-title="Portugal",Nickelodeon
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/124
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="Canal Panda" tvg-logo="https://logos.prvgroup.xyz/TUGA/PANDA.png" group-title="Portugal",Canal Panda
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/120
+#EXTINF:-1 tvg-id="panda.pt" tvg-name="Canal Panda ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/PANDA.png" group-title="Portugal",Canal Panda ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/166
+#EXTINF:-1 tvg-id="PANDA KIDS" tvg-name="Panda Kids" tvg-logo="https://logos.prvgroup.xyz/TUGA/KIDSPANDA.png" group-title="Portugal",Panda Kids
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/79
+#EXTINF:-1 tvg-id="biggs.pt" tvg-name="Biggs" tvg-logo="https://logos.prvgroup.xyz/TUGA/BIGGS.png" group-title="Portugal",Biggs
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/119
+#EXTINF:-1 tvg-id="jimjam.pt" tvg-name="Jim Jam" tvg-logo="https://logos.prvgroup.xyz/TUGA/JIMJAM.png" group-title="Portugal",Jim Jam
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/126
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel" tvg-logo="https://logos.prvgroup.xyz/TUGA/DISNEYCHANNEL.png" group-title="Portugal",Disney Channel
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/123
+#EXTINF:-1 tvg-id="DISNY" tvg-name="Disney Channel ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/DISNEYCHANNEL.png" group-title="Portugal",Disney Channel ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/14581
+#EXTINF:-1 tvg-id="disneyjunior.pt" tvg-name="Disney Junior" tvg-logo="https://logos.prvgroup.xyz/TUGA/DISNEYJUNIOR.png" group-title="Portugal",Disney Junior
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/122
+#EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-name="Cartoon Network" tvg-logo="https://logos.prvgroup.xyz/TUGA/CARTOONNETWORK.png" group-title="Portugal",Cartoon Network
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/121
+#EXTINF:-1 tvg-id="Nickejvgu" tvg-name="Nick Jr. " tvg-logo="https://logos.prvgroup.xyz/TUGA/NICKJR.png" group-title="Portugal",Nick Jr. 
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/125
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="Baby TV " tvg-logo="https://logos.prvgroup.xyz/TUGA/BABYTV.png" group-title="Portugal",Baby TV 
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/117
+#EXTINF:-1 tvg-id="SIC K" tvg-name="SIC K" tvg-logo="https://logos.prvgroup.xyz/TUGA/SICK.png" group-title="Portugal",SIC K
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/127
+#EXTINF:-1 tvg-id="SIC K" tvg-name="SIC K ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/SICK.png" group-title="Portugal",SIC K ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/128
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="Boomerang" tvg-logo="https://logos.prvgroup.xyz/TUGA/BOOMERANG.png" group-title="Portugal",Boomerang
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/118
+#EXTINF:-1 tvg-id="LOLLY" tvg-name="Lolly Kids ᴴᴰ " tvg-logo="https://logos.prvgroup.xyz/TUGA/lolly-kids-logo.png" group-title="Portugal",Lolly Kids ᴴᴰ 
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/23762
+#EXTINF:-1 tvg-id="dummy010" tvg-name="Kuriakos Kids ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/logosmundo/kuriakoskids.png" group-title="Portugal",Kuriakos Kids ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/13901
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos Animados 24/7" tvg-logo="https://logos.prvgroup.xyz/logosmundo/desenhos.png" group-title="Portugal",Desenhos Animados 24/7
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/22379
+#EXTINF:-1 tvg-id="" tvg-name="Tom Sawyer 24/7" tvg-logo="https://lifehousetheater.com/wp-content/uploads/2017/06/Tom-Sawyer-logo-stacked-300x124.png" group-title="Portugal",Tom Sawyer 24/7
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/33857
+#EXTINF:-1 tvg-id="" tvg-name="Dartacao 24/7" tvg-logo="https://fanart.tv/fanart/tv/74972/clearlogo/dogtanian-and-the-three-muskehounds-4de3c30dee968.png" group-title="Portugal",Dartacao 24/7
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/33859
+#EXTINF:-1 tvg-id="" tvg-name="Tom And Jerry 24/7" tvg-logo="https://i.pinimg.com/originals/b1/4f/16/b14f165c3501cc8f53e64b551ad1cd25.png" group-title="Portugal",Tom And Jerry 24/7
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/33858
+#EXTINF:-1 tvg-id="" tvg-name="Yu-Gi-Oh! 24/7" tvg-logo="https://logos.prvgroup.xyz/logosmundo/yugioh.png" group-title="Portugal",Yu-Gi-Oh! 24/7
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/25550
+#EXTINF:-1 tvg-id="" tvg-name="Oliver e Benji 24/7" tvg-logo="https://logos.prvgroup.xyz/logosmundo/oliverbenji.png" group-title="Portugal",Oliver e Benji 24/7
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/25551
+#EXTINF:-1 tvg-id="" tvg-name="Doraemon 24/7" tvg-logo="https://logos.prvgroup.xyz/logosmundo/doraemon.png" group-title="Portugal",Doraemon 24/7
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/26229
+#EXTINF:-1 tvg-id="" tvg-name="Heidi 24/7" tvg-logo="https://logos.prvgroup.xyz/logosmundo/HEIDI.png" group-title="Portugal",Heidi 24/7
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/34349
+#EXTINF:-1 tvg-id="" tvg-name="SpongeBob Squarepants 24/7" tvg-logo="https://logos.prvgroup.xyz/logosmundo/spongebob.png" group-title="Portugal",SpongeBob Squarepants 24/7
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/37095
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super 24/7 " tvg-logo="https://logos.prvgroup.xyz/logosmundo/dragon-ball-super-logo.png" group-title="Portugal",Dragon Ball Super 24/7 
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/30374
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Shippuden 24/7 " tvg-logo="https://logos.prvgroup.xyz/logosmundo/naruto.png" group-title="Portugal",Naruto Shippuden 24/7 
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/30373
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon 24/7" tvg-logo="https://logos.prvgroup.xyz/logosmundo/pokemon2.png" group-title="Portugal",Pokémon 24/7
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/37097
+#EXTINF:-1 tvg-id="TVCg1" tvg-name="TVCine TOP" tvg-logo="https://logos.prvgroup.xyz/TUGA/TVCINE%20TOP.png" group-title="Portugal",TVCine TOP
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/81
+#EXTINF:-1 tvg-id="TVCg1" tvg-name="TVCine TOP ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/TVCINE%20TOPHD.png" group-title="Portugal",TVCine TOP ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/82
+#EXTINF:-1 tvg-id="TVCg2" tvg-name="TVCine EDITION" tvg-logo="https://logos.prvgroup.xyz/TUGA/TVC%20EDITION.png" group-title="Portugal",TVCine EDITION
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/83
+#EXTINF:-1 tvg-id="TVCg2" tvg-name="TVCine EDITION ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/TVC%20EDITIONHD.png" group-title="Portugal",TVCine EDITION ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/84
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-name="TVCine EMOTION" tvg-logo="https://logos.prvgroup.xyz/TUGA/TVC%20EMOTION.png" group-title="Portugal",TVCine EMOTION
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/85
+#EXTINF:-1 tvg-id="TVCg3" tvg-name="TVCine EMOTION ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/TVC%20EMOTIONHD.png" group-title="Portugal",TVCine EMOTION ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/86
+#EXTINF:-1 tvg-id="TVCg4" tvg-name="TVCine ACTION" tvg-logo="https://logos.prvgroup.xyz/TUGA/TVCINE%20ACTION.png" group-title="Portugal",TVCine ACTION
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/87
+#EXTINF:-1 tvg-id="TVCg4" tvg-name="TVCine ACTION ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/TVC%20ACTIONHD.png" group-title="Portugal",TVCine ACTION ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/88
+#EXTINF:-1 tvg-id="NOSStudiosHD" tvg-name="NOS STUDIOS" tvg-logo="https://logos.prvgroup.xyz/TUGA/NOSSTUDIOS.png" group-title="Portugal",NOS STUDIOS
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/18245
+#EXTINF:-1 tvg-id="NOSStudiosHD" tvg-name="NOS STUDIOS ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/NOS%20STUDIOSHD.png" group-title="Portugal",NOS STUDIOS ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/98
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="FOX" tvg-logo="https://logos.prvgroup.xyz/TUGA/FOX.png" group-title="Portugal",FOX
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/111
+#EXTINF:-1 tvg-id="fox.pt" tvg-name="FOX ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/FOXHD.png" group-title="Portugal",FOX ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/112
+#EXTINF:-1 tvg-id="FOXLIFEHD" tvg-name="FOX LIFE" tvg-logo="https://logos.prvgroup.xyz/TUGA/FOXLIFE.png" group-title="Portugal",FOX LIFE
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/115
+#EXTINF:-1 tvg-id="FOXLIFEHD" tvg-name="FOX LIFE ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/FOXLIFEHD.png" group-title="Portugal",FOX LIFE ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/116
+#EXTINF:-1 tvg-id="FOXCRIMEHD" tvg-name="FOX CRIME" tvg-logo="https://logos.prvgroup.xyz/TUGA/FOXCRIME.png" group-title="Portugal",FOX CRIME
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/114
+#EXTINF:-1 tvg-id="FOXCRIMEHD" tvg-name="FOX CRIME ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/FOXCRIMEHD.png" group-title="Portugal",FOX CRIME ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/99
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="FOX COMEDY" tvg-logo="https://logos.prvgroup.xyz/TUGA/FOXCOMEDY.png" group-title="Portugal",FOX COMEDY
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/113
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-name="FOX COMEDY ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/FOXCOMEDYHD.png" group-title="Portugal",FOX COMEDY ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/100
+#EXTINF:-1 tvg-id="FOXMOVIESHD" tvg-name="FOX MOVIES" tvg-logo="https://logos.prvgroup.xyz/TUGA/FOXMOVIES.png" group-title="Portugal",FOX MOVIES
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/101
+#EXTINF:-1 tvg-id="FOXMOVIESHD" tvg-name="FOX MOVIES ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/FOXMOVIESHD.png" group-title="Portugal",FOX MOVIES ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/102
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://logos.prvgroup.xyz/TUGA/AXN.png" group-title="Portugal",AXN
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/105
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/AXNHD.png" group-title="Portugal",AXN ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/106
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="AXN WHITE" tvg-logo="https://logos.prvgroup.xyz/TUGA/AXNWHITE.png" group-title="Portugal",AXN WHITE
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/109
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-name="AXN WHITE ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/AXNWHITEHD.png" group-title="Portugal",AXN WHITE ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/110
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="AXN MOVIES" tvg-logo="https://logos.prvgroup.xyz/TUGA/AXNMOVIES.png" group-title="Portugal",AXN MOVIES
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/107
+#EXTINF:-1 tvg-id="axnblack.pt" tvg-name="AXN MOVIES ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/AXNMOVIESHD.png" group-title="Portugal",AXN MOVIES ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/108
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="AMC" tvg-logo="https://logos.prvgroup.xyz/TUGA/AMC.png" group-title="Portugal",AMC
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/103
+#EXTINF:-1 tvg-id="amc.pt" tvg-name="AMC ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/AMCHD.png" group-title="Portugal",AMC ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/104
+#EXTINF:-1 tvg-id="HOLLYHD" tvg-name="Hollywood" tvg-logo="https://logos.prvgroup.xyz/TUGA/HOLLYWOOD.png" group-title="Portugal",Hollywood
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/93
+#EXTINF:-1 tvg-id="HOLLYHD" tvg-name="Hollywood ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/HOLLYWOODHD.png" group-title="Portugal",Hollywood ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/94
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="SYFY" tvg-logo="https://logos.prvgroup.xyz/TUGA/SYFY.png" group-title="Portugal",SYFY
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/91
+#EXTINF:-1 tvg-id="syfy.pt" tvg-name="SYFY ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/SYFYHD.png" group-title="Portugal",SYFY ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/92
+#EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="Cinemundo" tvg-logo="https://logos.prvgroup.xyz/TUGA/CINE%20MUNDO.png" group-title="Portugal",Cinemundo
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/95
+#EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="Cinemundo ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/CINEMUNDO%20HD.png" group-title="Portugal",Cinemundo ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/96
+#EXTINF:-1 tvg-id="" tvg-name="DC TV 24/7" tvg-logo="https://i.pinimg.com/originals/6c/39/11/6c39115d45515fa017ebb8b52de10503.png" group-title="Portugal",DC TV 24/7
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/22419
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 24/7" tvg-logo="https://logos.prvgroup.xyz/logosmundo/CINEMA247.png" group-title="Portugal",Cinema 24/7
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/25277
+#EXTINF:-1 tvg-id="dummy009" tvg-name="Kuriakos Cine ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/logosmundo/kuriakoscine.png" group-title="Portugal",Kuriakos Cine ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/13900
+#EXTINF:-1 tvg-id="EENTERHD" tvg-name="E! Entertainment" tvg-logo="https://logos.prvgroup.xyz/logosmundo/eentertainment.png" group-title="Portugal",E! Entertainment
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/160
+#EXTINF:-1 tvg-id="bbcntertainment.pt" tvg-name="BBC Entertainment" tvg-logo="https://logos.prvgroup.xyz/logosmundo/bbcentertainment.png" group-title="Portugal",BBC Entertainment
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/155
+#EXTINF:-1 tvg-id="FASHIONTVHD" tvg-name="Fashion TV" tvg-logo="https://logos.prvgroup.xyz/TUGA/FASHIONTV.png" group-title="Portugal",Fashion TV
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/2232
+#EXTINF:-1 tvg-id="maschic.pt" tvg-name="Más Chic" tvg-logo="https://i.imgur.com/PImd84y.png" group-title="Portugal",Más Chic
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/492
+#EXTINF:-1 tvg-id="FOODNETWORKHD" tvg-name="Food Network" tvg-logo="https://logos.prvgroup.xyz/TUGA/FOOD%20NETWORK.png" group-title="Portugal",Food Network
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/130
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-name="24 Kitchen ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/24KITCHENHD.png" group-title="Portugal",24 Kitchen ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/129
+#EXTINF:-1 tvg-id="casaecozinha.pt" tvg-name="Casa e Cozinha ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/CASACOZINHA.png" group-title="Portugal",Casa e Cozinha ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/25033
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://logos.prvgroup.xyz/TUGA/TLC.png" group-title="Portugal",TLC
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/150
+#EXTINF:-1 tvg-id="TVGLOBO" tvg-name="Globo Now" tvg-logo="https://logos.prvgroup.xyz/TUGA/GLOBONOW.png" group-title="Portugal",Globo Now
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/162
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="Discovery Channel" tvg-logo="https://logos.prvgroup.xyz/TUGA/DISCOVERY.png" group-title="Portugal",Discovery Channel
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/135
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="Discovery Channel ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/DISCOVERYHD.png" group-title="Portugal",Discovery Channel ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/136
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="National Geographic" tvg-logo="https://logos.prvgroup.xyz/TUGA/NATGEO.png" group-title="Portugal",National Geographic
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/140
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="National Geographic ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/NATGEOHD.png" group-title="Portugal",National Geographic ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/141
+#EXTINF:-1 tvg-id="NGCWILD" tvg-name="Nat Geo Wild" tvg-logo="https://logos.prvgroup.xyz/TUGA/NATGEOWILD.png" group-title="Portugal",Nat Geo Wild
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/138
+#EXTINF:-1 tvg-id="NGCWILD" tvg-name="Nat Geo Wild ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/NATGEOWILDHD.png" group-title="Portugal",Nat Geo Wild ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/139
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="Odisseia" tvg-logo="https://logos.prvgroup.xyz/TUGA/ODISSEIA.png" group-title="Portugal",Odisseia
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/145
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="Odisseia ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/ODISSEIAHD.png" group-title="Portugal",Odisseia ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/197
+#EXTINF:-1 tvg-id="crimeinvestigacao" tvg-name="Crime Investigation" tvg-logo="https://logos.prvgroup.xyz/TUGA/CRIME+INVESTIGATION.png" group-title="Portugal",Crime Investigation
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/134
+#EXTINF:-1 tvg-id="crimeinvestigacao" tvg-name="Crime Investigation ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/CRIME+INVESTIGATION_HD.png" group-title="Portugal",Crime Investigation ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/34346
+#EXTINF:-1 tvg-id="ID Investigation Discovery" tvg-name="Investigation Discovery ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/IDHD_NEW.png" group-title="Portugal",Investigation Discovery ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/148
+#EXTINF:-1 tvg-id="historia.pt" tvg-name="História" tvg-logo="https://logos.prvgroup.xyz/TUGA/HISTORIA.png" group-title="Portugal",História
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/147
+#EXTINF:-1 tvg-id="historia.pt" tvg-name="História ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/HISTORIAHD.png" group-title="Portugal",História ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/31295
+#EXTINF:-1 tvg-id="AbE" tvg-name="Blaze" tvg-logo="https://logos.prvgroup.xyz/TUGA/BLAZE.png" group-title="Portugal",Blaze
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/131
+#EXTINF:-1 tvg-id="AbE" tvg-name="Blaze ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/BLAZEHD.png" group-title="Portugal",Blaze ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/202
+#EXTINF:-1 tvg-id="TRAVEL" tvg-name="Travel Channel ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/TRAVELCHANNELHD.png" group-title="Portugal",Travel Channel ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/151
+#EXTINF:-1 tvg-id="S+ HD" tvg-name="S+ ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/S+.png" group-title="Portugal",S+ ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/20
+#EXTINF:-1 tvg-id="mtv.pt" tvg-name="MTV Portugal" tvg-logo="https://logos.prvgroup.xyz/TUGA/MTV.png" group-title="Portugal",MTV Portugal
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/18266
+#EXTINF:-1 tvg-id="mtv.pt" tvg-name="MTV Portugal ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/MTV.png" group-title="Portugal",MTV Portugal ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/173
+#EXTINF:-1 tvg-id="MTV Live HD" tvg-name="MTV Live ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/MTVLIVEHD.png" group-title="Portugal",MTV Live ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/31296
+#EXTINF:-1 tvg-id="MTV80s(English).es" tvg-name="MTV 80s" tvg-logo="https://logos.prvgroup.xyz/logosmundo/MTV_80s.png" group-title="Portugal",MTV 80s
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/27838
+#EXTINF:-1 tvg-id="VH1" tvg-name="VH1 " tvg-logo="https://logos.prvgroup.xyz/TUGA/VH1.png" group-title="Portugal",VH1 
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/183
+#EXTINF:-1 tvg-id="traceurban.pt" tvg-name="Trace Urban" tvg-logo="https://logos.prvgroup.xyz/TUGA/TRACE%20URBAN.png" group-title="Portugal",Trace Urban
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/175
+#EXTINF:-1 tvg-id="tracetoca.pt" tvg-name="Trace Toca" tvg-logo="https://logos.prvgroup.xyz/TUGA/TRACETOCA.png" group-title="Portugal",Trace Toca
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/176
+#EXTINF:-1 tvg-id="MCM POP" tvg-name="MCM TOP" tvg-logo="https://logos.prvgroup.xyz/TUGA/MCMTOP.png" group-title="Portugal",MCM TOP
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/172
+#EXTINF:-1 tvg-id="MCM POP" tvg-name="MCM POP" tvg-logo="https://logos.prvgroup.xyz/TUGA/MCMPOP.png" group-title="Portugal",MCM POP
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/174
+#EXTINF:-1 tvg-id="afromusicchannel.pt" tvg-name="Afro Music" tvg-logo="https://logos.prvgroup.xyz/TUGA/AFROMUSIC.png" group-title="Portugal",Afro Music
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/171
+#EXTINF:-1 tvg-id="almalusa" tvg-name="Alma Lusa" tvg-logo="https://logos.prvgroup.xyz/TUGA/ALMALUSA.png" group-title="Portugal",Alma Lusa
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/13909
+#EXTINF:-1 tvg-id="clubbingtv.pt" tvg-name="Clubbing TV" tvg-logo="https://logos.prvgroup.xyz/logosmundo/ClubbingTV.png" group-title="Portugal",Clubbing TV
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/13894
+#EXTINF:-1 tvg-id="MEZZO" tvg-name="Mezzo" tvg-logo="https://logos.prvgroup.xyz/logosmundo/mezzotv.png" group-title="Portugal",Mezzo
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/182
+#EXTINF:-1 tvg-id="iConcerts" tvg-name="Stingray iConcerts" tvg-logo="https://logos.prvgroup.xyz/logosmundo/stingrayiconcerts.png" group-title="Portugal",Stingray iConcerts
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/496
+#EXTINF:-1 tvg-id="dummy011" tvg-name="Kuriakos Music ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/logosmundo/kuriakosmusic.png" group-title="Portugal",Kuriakos Music ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/13903
+#EXTINF:-1 tvg-id="ZAP Viva HD" tvg-name="Zap Viva ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/ZAPVIVA.png" group-title="Portugal",Zap Viva ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/25032
+#EXTINF:-1 tvg-id="M6" tvg-name="M6" tvg-logo="https://logos.prvgroup.xyz/TUGA/m6.png" group-title="Portugal",M6
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/28506
+#EXTINF:-1 tvg-id="RAI 1" tvg-name="RAI 1" tvg-logo="https://logos.prvgroup.xyz/TUGA/RAI1.png" group-title="Portugal",RAI 1
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/14586
+#EXTINF:-1 tvg-id="TV5" tvg-name="TV5 Monde" tvg-logo="https://logos.prvgroup.xyz/logosmundo/tv5monde.png" group-title="Portugal",TV5 Monde
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/158
+#EXTINF:-1 tvg-id="RTPxx1" tvg-name="Localvisão ᴴᴰ" tvg-logo="https://i.imgur.com/IGnbquy.png" group-title="Portugal",Localvisão ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/13905
+#EXTINF:-1 tvg-id="TV Record HD" tvg-name="TV Record ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/TUGA/RECORDTVHD.png" group-title="Portugal",TV Record ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/161
+#EXTINF:-1 tvg-id="RTP Madeira" tvg-name="RTP Madeira" tvg-logo="https://logos.prvgroup.xyz/TUGA/RTPMADEIRA.png" group-title="Portugal",RTP Madeira
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/16
+#EXTINF:-1 tvg-id="rtpacores.pt" tvg-name="RTP Açores" tvg-logo="https://logos.prvgroup.xyz/TUGA/RTPACORES.png" group-title="Portugal",RTP Açores
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/14
+#EXTINF:-1 tvg-id="RTPA" tvg-name="RTP Africa" tvg-logo="https://logos.prvgroup.xyz/TUGA/RTPAFRICA.png" group-title="Portugal",RTP Africa
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/13
+#EXTINF:-1 tvg-id="TVI Reality - Câmara 1" tvg-name="TVI Reality CAM 1" tvg-logo="https://logos.prvgroup.xyz/TUGA/TVIREALITY_CAM1.png" group-title="Portugal",TVI Reality CAM 1
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/28299
+#EXTINF:-1 tvg-id="TVI Reality - Câmara 2" tvg-name="TVI Reality CAM 2" tvg-logo="https://logos.prvgroup.xyz/TUGA/TVIREALITY_CAM2.png" group-title="Portugal",TVI Reality CAM 2
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/28300
+#EXTINF:-1 tvg-id="TVI Reality - Câmara 3" tvg-name="TVI Reality CAM 3" tvg-logo="https://logos.prvgroup.xyz/TUGA/TVIREALITY_CAM3.png" group-title="Portugal",TVI Reality CAM 3
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/28301
+#EXTINF:-1 tvg-id="TVI Reality - Câmara 4" tvg-name="TVI Reality CAM 4" tvg-logo="https://logos.prvgroup.xyz/TUGA/TVIREALITY_CAM4.png" group-title="Portugal",TVI Reality CAM 4
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/28302
+#EXTINF:-1 tvg-id="TVI Reality - Mosaico" tvg-name="TVI Reality MOSAICO" tvg-logo="https://logos.prvgroup.xyz/TUGA/TVIREALITY_MOS.png" group-title="Portugal",TVI Reality MOSAICO
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/30058
+#EXTINF:-1 tvg-id="cbsreal" tvg-name="CBS Reality" tvg-logo="https://logos.prvgroup.xyz/logosmundo/cbsreality.png" group-title="Portugal",CBS Reality
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/168
+#EXTINF:-1 tvg-id="cancaonova.pt" tvg-name="Canção Nova" tvg-logo="https://logos.prvgroup.xyz/logosmundo/cancaonova.png" group-title="Portugal",Canção Nova
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/204
+#EXTINF:-1 tvg-id="dummy012" tvg-name="Fatima TV ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/logosmundo/tvfatima.png" group-title="Portugal",Fatima TV ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/205
+#EXTINF:-1 tvg-id="KuriakosTV" tvg-name="Kuriakos TV ᴴᴰ" tvg-logo="https://logos.prvgroup.xyz/logosmundo/kuriakostv.png" group-title="Portugal",Kuriakos TV ᴴᴰ
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/13899
+#EXTINF:-1 tvg-id="tvminternacional.pt" tvg-name="TVM Internacional" tvg-logo="https://logos.prvgroup.xyz/TUGA/TVM.png" group-title="Portugal",TVM Internacional
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/14587
+#EXTINF:-1 tvg-id="CANAL 180 HD" tvg-name="Canal 180" tvg-logo="https://logos.prvgroup.xyz/logosmundo/canal180.png" group-title="Portugal",Canal 180
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/14580
+#EXTINF:-1 tvg-id="" tvg-name="Macau TV" tvg-logo="https://i.imgur.com/JxhVCEI.png" group-title="Portugal",Macau TV
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/14575
+#EXTINF:-1 tvg-id="GAMETOON" tvg-name="GameToon" tvg-logo="https://logos.prvgroup.xyz/TUGA/GAMETOON.png" group-title="Portugal",GameToon
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/74
+#EXTINF:-1 tvg-id="GINXeSportsTV.uk" tvg-name="Ginx" tvg-logo="https://logos.prvgroup.xyz/logosmundo/ginxesports.png" group-title="Portugal",Ginx
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/495
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://logos.prvgroup.xyz/logosmundo/cnneng.png" group-title="Portugal",CNN
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/156
+#EXTINF:-1 tvg-id="Sky News" tvg-name="Sky News" tvg-logo="https://logos.prvgroup.xyz/TUGA/SKYNEWS.png" group-title="Portugal",Sky News
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/159
+#EXTINF:-1 tvg-id="euronews.pt" tvg-name="Euronews" tvg-logo="https://logos.prvgroup.xyz/logosmundo/euronewsenglish.png" group-title="Portugal",Euronews
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/157
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="https://logos.prvgroup.xyz/logosmundo/recordnews.png" group-title="Portugal",Record News
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/13920
+#EXTINF:-1 tvg-id="Bloomberg (I)" tvg-name="Bloomberg" tvg-logo="https://logos.prvgroup.xyz/logosmundo/bloombergeuropeantv.png" group-title="Portugal",Bloomberg
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/154
+#EXTINF:-1 tvg-id="bbcworldnews.pt" tvg-name="BBC World News" tvg-logo="https://logos.prvgroup.xyz/logosmundo/bbcworldnews.png" group-title="Portugal",BBC World News
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/153
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC Europe" tvg-logo="https://logos.prvgroup.xyz/logosmundo/cnbceurope.png" group-title="Portugal",CNBC Europe
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/14584
+#EXTINF:-1 tvg-id="i24news.pt" tvg-name="i24 News" tvg-logo="https://logos.prvgroup.xyz/logosmundo/i24news.png" group-title="Portugal",i24 News
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/18246
+#EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://logos.prvgroup.xyz/logosmundo/dw.png" group-title="Portugal",DW
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/18202
+#EXTINF:-1 tvg-id="TV Galicia" tvg-name="TV Galicia" tvg-logo="https://logos.prvgroup.xyz/logosmundo/tvgalicia.png" group-title="Portugal",TV Galicia
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/18247
+#EXTINF:-1 tvg-id="France 24 (I)" tvg-name="France 24 (E)" tvg-logo="https://logos.prvgroup.xyz/logosmundo/france24.png" group-title="Portugal",France 24 (E)
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/13921
+#EXTINF:-1 tvg-id="nhkworldjapan.pt" tvg-name="NHK World Japan" tvg-logo="https://logos.prvgroup.xyz/logosmundo/nhkworldjapan.png" group-title="Portugal",NHK World Japan
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/13915
+#EXTINF:-1 tvg-id="artv.pt" tvg-name="ARTV" tvg-logo="https://logos.prvgroup.xyz/TUGA/ARTV.png" group-title="Portugal",ARTV
+http://k.lusoonline.online:80/Tiagomiranda/bRLE6b7mvW/152
